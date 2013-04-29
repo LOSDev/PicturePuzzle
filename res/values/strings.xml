@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="photos_display">Wow</string>
+    <string name="app_name">PicPuzzle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="easy">Easy</string>
+    <string name="advanced">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="restart">Restart Level</string>
+    <string name="quit">Quit</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_game_play">GamePlay</string>
+    <string name="title_activity_you_win">Congratulations: You Win</string>
+    <string name="desc">This is a picture</string>
+    <string name="author"></string>
+    <string name="congrats">Congratulations</string>
+    <string name="header">Select an Image to Play</string>
+    <string name="message">You solved the puzzle with %1$d moves</string>
+    <string name="back">Play Again!</string>
+
+</resources>
